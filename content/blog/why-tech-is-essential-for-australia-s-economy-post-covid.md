@@ -1,10 +1,10 @@
 +++
-author = []
-categories = []
-date = ""
+author = ["Rachel"]
+categories = ["Australia", "Innovation", "Technology"]
+date = 2020-09-17T14:00:00Z
 description = ""
 image = "/images/au_tech_economy.jpg"
-tags = []
+tags = ["Technology ", "Innovation", "Economy"]
 title = "Why tech is essential for Australia's economy post-covid"
 
 +++
