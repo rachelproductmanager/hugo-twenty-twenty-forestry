@@ -6,7 +6,7 @@ description = ""
 draft = true
 image = ""
 tags = ["Human-Centred Design", "Product Management", "AI"]
-title = "Why human-centric design makes AI better"
+title = "Why human-centred design makes AI better"
 
 +++
 **"I worry that enthusiasm for A.I. is preventing us from reckoning with its looming effects on society. Despite its name, there is nothing "artificial" about this technology - it is made by humans, intended to behave like humans, and affects humans. So if we want it to play a positive role in tomorrow's world, it must be guided by human concerns." -** [**Fei-Fei Li, How to Make AI That’s Good For People**](https://www.nytimes.com/2018/03/07/opinion/artificial-intelligence-human.html)
