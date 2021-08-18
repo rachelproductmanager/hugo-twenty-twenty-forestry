@@ -3,7 +3,7 @@ author = []
 categories = []
 date = ""
 description = ""
-image = ""
+image = "/images/au_tech_economy.jpg"
 tags = []
 title = "Why tech is essential for Australia's economy post-covid"
 
