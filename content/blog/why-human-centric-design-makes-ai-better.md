@@ -3,7 +3,7 @@ author = ["Rachel"]
 categories = ["product management", "human centred design", "artificial intelligence"]
 date = 2020-08-24T14:00:00Z
 description = ""
-image = "/images/possessed-photography-g29arbbvpjo-unsplash.jpg"
+image = "/images/human_centred_design_ai.jpg"
 tags = ["Human-Centred Design", "Product Management", "AI"]
 title = "Why human-centred design makes AI better"
 
