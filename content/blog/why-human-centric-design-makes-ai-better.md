@@ -1,7 +1,7 @@
 +++
 author = []
 categories = ["product management", "human centred design", "artificial intelligence"]
-date = ""
+date = 2020-08-24T14:00:00Z
 description = ""
 draft = true
 image = ""
@@ -77,31 +77,11 @@ AI is useful when you want to **make different recommendations to different user
 
 **7/ Prepare users' mental models and help them understand how to train the system** - set expectations for what a product can and can’t do, what kind of value people can expect to get from it, how it may change and how to improve it. It’s important to account for user expectations of human-like interaction & help users calibrate their trust - people are more likely to have unachievable expectations for products that they assume have human-like capabilities. It’s important to communicate the algorithmic nature and limits of these products to set realistic user expectations and avoid unintended deception. Because AI products are based on statistics and probability, the user shouldn’t trust the system completely. Incorporate system explanations so the user knows when to trust the system’s predictions and when to apply their own judgement.
 
-#### 
-
-**EXAMPLE 1**
-
-##### **Explain the benefits. Not the technology:**
-
-![](/images/screen-shot-2020-08-26-at-12-29-17.png)
-
-_Source: Google People + AI Guidebook_
-
 **8/** **Optimise for understanding & manage influence on user decisions** - In some cases, there may be no explicit, comprehensive explanation for the output of a complex algorithm. Even the developers of the AI may not know precisely how it works. In other cases, the reasoning behind a prediction may be knowable, but difficult to explain to users in terms they will understand. In many cases the best approach is not to attempt to explain everything – just the aspects that impact user trust and decision-making. Some techniques such as system or output explanation, data source transparency and model confidence displays can help build user understanding of and trust in the system. AI systems often generate output that the user needs to act on. If, when, and how the system calculates and shows confidence levels can be critical in informing the user’s decision making and calibrating their trust.
 
 **9/ Align feedback with model improvement -** Leveraging feedback is a powerful and scalable way to improve your technology, provide personalized content, and enhance the user experience. For AI products, user feedback and control are critical to improving your underlying AI model’s output and user experience. When users have the opportunity to offer feedback, they can play a direct role in personalising their experiences and maximizing the benefit your product brings to them. When users have the right level of control over the system, they’re more likely to trust it.
 
 **10/ Think about potential errors and paths forward** - With AI systems, errors can come from many places, be harder to identify, and appear to the user and to system creators in non-intuitive ways.As users interact with your product, they’ll test it in ways you can’t foresee during the development process. Misunderstandings, false starts, and impropriety will happen, so designing for these cases is a core component of any user-centered product. Errors are also opportunities. They can support faster learning by experimentation, help establish correct mental models, and encourage users to provide feedback. Creating paths for users to take action in response to the errors they encounter encourages patience with the system, keeps the user-AI relationship going, and supports a better overall experience.
-
-#### 
-
-**EXAMPLE 2**
-
-##### **Acknowledge errors & offer a forward path:**
-
-![](/images/screen-shot-2020-08-26-at-12-31-59.png)
-
-_Source: Google People + AI Guidebook_
 
 ## **Conclusion**
 
