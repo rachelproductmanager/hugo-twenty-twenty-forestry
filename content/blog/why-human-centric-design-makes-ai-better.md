@@ -1,5 +1,5 @@
 +++
-author = []
+author = ["Rachel"]
 categories = ["product management", "human centred design", "artificial intelligence"]
 date = 2020-08-24T14:00:00Z
 description = ""
