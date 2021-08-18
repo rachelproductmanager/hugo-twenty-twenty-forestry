@@ -4,7 +4,7 @@ categories = ["product management", "human centred design", "artificial intellig
 date = 2020-08-24T14:00:00Z
 description = ""
 draft = true
-image = ""
+image = "/images/possessed-photography-g29arbbvpjo-unsplash.jpg"
 tags = ["Human-Centred Design", "Product Management", "AI"]
 title = "Why human-centred design makes AI better"
 
